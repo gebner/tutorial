@@ -1,0 +1,1 @@
+var lean_nav_data=["01_Introduction.html","02_Dependent_Type_Theory.html","03_Propositions_and_Proofs.html","04_Quantifiers_and_Equality.html","05_Tactics.html","06_Inductive_Types.html","07_Induction_and_Recursion.html"];

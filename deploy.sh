@@ -7,7 +7,6 @@ fi
 
 # 1. Build
 make
-make build_nav_data
 
 # 2. Check cssmin, minify
 hash cssmin 2>/dev/null || { echo >&2 "cssmin is not installed. Run 'npm -g i minify'."; exit 1; }

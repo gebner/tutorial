@@ -19,9 +19,7 @@ sudo apt-get install mercurial python2.7 texlive-latex-recommended \
                      bibtex2html git make mercurial autoconf automake gcc curl
 git clone https://github.com/leanprover/tutorial
 cd tutorial
-tar xvfz header/l3kernel.tar.gz -C ~/
-make install-cask # after this, you need to add the cask binary to your $PATH
-make install-pygments  
+make install-cask # if you do not have cask installed already
 make
 ```
 
